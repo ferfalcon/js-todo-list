@@ -1,0 +1,16 @@
+{
+  "name": "js-todo-list",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+		"test": "vitest",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.1",
+    "vitest": "^2.1.1"
+  }
+}
